@@ -4,7 +4,7 @@ import "./quiz.css"
 
 function Quiz() {
 
-    const [ p1, alteraP1 ] = useState(0) 
+    const [ p1, alteraP1 ] = useState(0)
     const [ p2, alteraP2 ] = useState(0)
     const [ p3, alteraP3 ] = useState(0)
     const [ p4, alteraP4 ] = useState(0)
